@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ruan+Cesar+;I'm+16+years+old;I+from+Brasil,+SP;I+study+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ruan+Cesar+;eu+tenho+16+Anos;Eu+Sou+Do+Brasil,+SP;Faço+o+Curso+De+Redes+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KlockRC&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=8B008B&text_color=c9d1d9&bg_color=0d1117" alt="KlockRC 's status" /> 
