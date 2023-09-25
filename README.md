@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=header"/>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif">
+<img src="joy.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ruan+Cesar+;eu+tenho+16+Anos;Eu+Sou+Do+Brasil,+SP;Faço+o+Curso+De+Redes+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
 
