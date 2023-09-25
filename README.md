@@ -2,7 +2,7 @@
 
 
    <div class="imga" align="center">
-            <img src="perfilp-rem.png" width="400" height="400" />
+            <img src="perfilp-rem.png" width="350" height="350" />
     </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ruan+Cesar+;eu+tenho+16+Anos;Eu+Sou+Do+Brasil,+SP;Faço+o+Curso+De+Redes+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
