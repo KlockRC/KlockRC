@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=header"/>
+<link rel="stylesheet" type="text/css" href="ju.css">
 
 
-   <div align="center">
+   <div class="imga" align="center">
             <img src="perfil.jpg" width="160" height="160" />
     </div>
 
