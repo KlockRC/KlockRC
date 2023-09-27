@@ -2,14 +2,14 @@
 
 
    <div class="imga" align="center">
-            <img src="perfil2.png" width="350" height="350" />
+            <img src="perfil2.png" width="365" height="350" />
     </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ruan+Cesar+;eu+tenho+16+Anos;Eu+Sou+Do+Brasil,+SP;Faço+o+Curso+De+Redes+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f1459b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ruan+Cesar+;eu+tenho+16+Anos;Eu+Sou+Do+Brasil,+SP;Faço+o+Curso+De+Redes+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KlockRC&show_icons=true&count_private=true&hide_border=true&title_color=8B008B&icon_color=8B008B&text_color=c9d1d9&bg_color=0d1117" alt="KlockRC 's status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlockRC&layout=compact&hide_border=true&title_color=8B008B&text_color=A020F0&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KlockRC&show_icons=true&count_private=true&hide_border=true&title_color=f1459b&icon_color=f1459b&text_color=c9d1d9&bg_color=0d1117" alt="KlockRC 's status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlockRC&layout=compact&hide_border=true&title_color=f1459b&text_color=A020F0&bg_color=0d1117" />
 </div>
 
 <div>
@@ -41,4 +41,4 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f1459b&height=120&section=footer"/>
