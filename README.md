@@ -2,14 +2,14 @@
 
 
    <div class="imga" align="center">
-            <img src="perfil5.png" width="368" height="350" />
+            <img src="perfilpom.png" width="350" height="350" />
     </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6a10d&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ruan+Cesar+;eu+tenho+16+Anos;Faço+o+Curso+De+Redes+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=14be69&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ruan+Cesar+;eu+tenho+16+Anos;Faço+o+Curso+De+Redes+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KlockRC&show_icons=true&count_private=true&hide_border=true&title_color=e6a10d&icon_color=e6a10d&text_color=c9d1d9&bg_color=0d1117" alt="KlockRC 's status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlockRC&layout=compact&hide_border=true&title_color=e6a10d&text_color=e6a10d&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KlockRC&show_icons=true&count_private=true&hide_border=true&title_color=14be69&icon_color=14be69&text_color=c9d1d9&bg_color=0d1117" alt="KlockRC 's status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlockRC&layout=compact&hide_border=true&title_color=14be69&text_color=14be69&bg_color=0d1117" />
 </div>
 
 <div>
@@ -18,7 +18,7 @@
   </p>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KlockRC&bg_color=00000&color=e6a10d&line=e6a10d&point=e6a10d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KlockRC&bg_color=00000&color=14be69&line=14be69&point=14be69&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -41,4 +41,4 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e6a10d&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=14be69&height=120&section=footer"/>
