@@ -5,7 +5,7 @@
             <img src="perfilpom.png" width="350" height="350" />
     </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=14be69&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ruan+Cesar+;eu+tenho+16+Anos;Faço+o+Curso+De+Redes+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=14be69&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ruan+Cesar+;eu+tenho+17+Anos;Faço+o+Curso+De+Redes+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KlockRC&show_icons=true&count_private=true&hide_border=true&title_color=14be69&icon_color=14be69&text_color=c9d1d9&bg_color=0d1117" alt="KlockRC 's status" /> 
