@@ -2,7 +2,7 @@
 
 
    <div class="imga" align="center">
-            <img src="perfilst6.gif" width="350" height="350" />
+            <img src="perfilst6.gif" width="320" height="320" />
     </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3652b5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ruan+Cesar+;eu+tenho+17+Anos;Faço+o+Curso+De+Redes+No+Senai;Seja+Bem-vindo+:%29)](https://git.io/typing-svg)
