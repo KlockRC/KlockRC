@@ -43,8 +43,9 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KlockRC&bg_color=00000&color=3652b5&line=3652b5&point=3652b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <div class="imga" align="center">
+            <img src="perfilst6.gif" width="320" height="320" />
+    </div>
 
 
 
